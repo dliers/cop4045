@@ -1,0 +1,8 @@
+1. """
+2. @author: Daniel Liers
+3. ZNumber: 23716566
+4. """
+5. 
+6. import math
+7. y = math.sqrt(2)
+8. print(y)
